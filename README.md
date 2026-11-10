@@ -2,6 +2,8 @@
 
 用 Vue 3、Vite 和 TypeScript 寫的泡泡龍網頁遊戲，介面是繁體中文。
 
+**線上遊玩：https://holmeslin.github.io/Bubble-Shooter/**
+
 畫面全部用 HTML Canvas 繪製，音效全部用 Web Audio API 即時合成，沒有用遊戲引擎，也沒有任何圖片或音檔。手機可以直接用觸控玩。
 
 ## 玩法
